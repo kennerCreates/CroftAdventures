@@ -118,6 +118,9 @@ Content/__ExternalObjects__/IvyModular/Maps/CharacterPreviewMap/9/D9/KHADSX1UZ5R
 Content/Characters/Mannequins/Animations/ABP_Manny.uasset
 Content/Characters/Mannequins/Animations/ABP_Manny.uasset
 Content/Characters/Mannequins/Animations/ABP_Manny.uasset
+Content/Characters/Mannequins/Animations/ABP_Manny.uasset
+Content/ExampleContent/Niagara/PBD/PopulateNeighborGrid.uasset
+Content/ExampleContent/Niagara/PBD/InitializeNeighborGrid.uasset
 Content/ExampleContent/Niagara/NeighborGrid3D/DynamicTransforms/RibbonBoxMat.uasset
 Content/ExampleContent/Niagara/NeighborGrid3D/DynamicTransforms/1x1x1_CenterAlignedRibbonBox.uasset
 Content/ExampleContent/Niagara/NeighborGrid3D/Boids.uasset
@@ -878,6 +881,3 @@ Content/City_of_Brass_Enviroment/Maps/Example_Streets.umap
 Content/City_of_Brass_Enviroment/Maps/Demo_Streets.umap
 Content/City_of_Brass_Enviroment/Maps/Demo_Palace.umap
 Content/City_of_Brass_Enviroment/Maps/Demo_Gardens.umap
-Content/City_of_Brass_Enviroment/Materials/Enviro_WorldUV_Mat.uasset
-Content/ExampleContent/Niagara/PBD/InitializeNeighborGrid.uasset
-Content/ExampleContent/Niagara/PBD/PopulateNeighborGrid.uasset
